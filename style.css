@@ -6,7 +6,7 @@
 
 body {
     display: flex;
-    justify-content: center;
+    margin-left: 14rem;
     margin-top: 50px;
     overflow-y: hidden;
     background-color: #000;
@@ -14,8 +14,8 @@ body {
 
 
 h1{
-    width: 10rem;
-    height: 10rem;
+    width: 12rem;
+    height: 12rem;
     padding: 20%;
     color: #fff;
     border-radius: 30px;
